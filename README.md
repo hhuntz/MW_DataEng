@@ -1,5 +1,5 @@
-# Mission Wired Project
-### Data Engineer 
+# Mission Wired Project -- Data Engineer 
+### Holden Huntzinger | holdenhuntzinger@yahoo.com
 
 This script pulls constituent data from AWS S3 buckets and creates CSVs as outlined [here](https://docs.google.com/document/d/1jhQxhGVmxVF8MlsUnSITVxIjGwEOxJnr/edit#heading=h.1fob9te)
 
